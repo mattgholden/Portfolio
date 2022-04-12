@@ -105,12 +105,6 @@
         "image": "react.jpg"
       },
       {
-        "name": "Meteor JS",
-        "description": "I enjoy MeteorJS for it's ease of configuration and its ability to get a full stack prototype up and running quickly. I used MeteorJS in a team for a Startup Programming class in UVIC in conjunction with React to build the MVP for Smirkspace (below in portfolio)",
-        "image": "meteor.jpg"
-      },
-
-      {
         "name": "Node JS",
         "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
         "image": "node.jpg"
