@@ -16,28 +16,18 @@
       "state": "Maryland",
       "zip": "21204"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "http://www.mattgholden.com",
     "resumedownload": "https://docs.google.com/document/d/1W79zlKS-RY5joE5_roEkzQjtWnWah9IZWJn72r0zPLc/edit",
     "social": [
       {
-        "name": "facebook",
+        "name": "twitter",
         "url": "",
-        "className": "fa fa-facebook"
+        "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
         "url": "",
         "className": "fa fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "",
-        "className": "fa fa-instagram"
-      },
-      {
-        "name": "stack-overflow",
-        "url": "",
-        "className": "fa fa-stack-overflow"
       },
       {
         "name": "github",
