@@ -2,11 +2,12 @@
   "name": "matts-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://mattgholden.com",
+  "homepage": "https://github.com/mattgholden/mattgholden.github.io",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^3.2.3",
     "jquery": "^3.6.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
@@ -40,8 +41,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
