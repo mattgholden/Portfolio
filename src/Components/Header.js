@@ -48,7 +48,7 @@ class Header extends Component {
             </li>
             <li>
               <a className="smoothscroll" href="#portfolio">
-                Projects
+                Works
               </a>
             </li>
             <li>
@@ -66,9 +66,9 @@ class Header extends Component {
 
         <div className="row banner">
           <div className="banner-text">
-            <h1 className="responsive-headline">My name is {name}.</h1>
+            <h1 className="responsive-headline">I'm {name}.</h1>
             <h3>
-              I am a <span>{city}</span> based <span>{occupation}</span>,
+              I'm a <span>{city}</span> based <span>{occupation}</span>,
               {description}
               <span>{employer}</span> where I<span> {jobDescription}</span>.
             </h3>
