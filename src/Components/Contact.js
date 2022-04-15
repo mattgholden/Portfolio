@@ -79,13 +79,12 @@ class Contact extends Component {
             <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
-					   <h4>Address and Phone</h4>
+					   <h4>Location</h4>
 					   <p className="address">
 						   {name}<br />
-						   {city} <br />
-						   {state}, {zip}<br />
+						   {city}, {state}, {zip}<br />
 						   <span>{phone}</span><br />
-               <span><a href="mailto:tbakerx@gmail.com">{email}</a></span>
+               <span><a href="mailto:mgholden27@gmail.com">{email}</a></span>
 					   </p>
 				   </div>
             </aside>

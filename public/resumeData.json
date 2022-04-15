@@ -6,12 +6,11 @@
     "employer": "Software Engineering Immersive Flex program",
     "jobDescription": "learned...",
     "image": "profile_pic.jpg",
-    "bio": "I am an athlete at heart, with an entrepreneurial spirit, a .",
-    "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
+    "bio": "I love travel,  .",
+    "contactmessage": "Think I'd be a good fit for your team? Have a project for me? I would love to hear from you!  Reach out by email or by using the form below if you would like to get in touch with me.",
     "email": "mgholden27@gmail.com",
     "phone": "",
     "address": {
-      "street": "",
       "city": "Towson",
       "state": "Maryland",
       "zip": "21204"
@@ -21,27 +20,27 @@
     "social": [
       {
         "name": "twitter",
-        "url": "",
+        "url": "https://twitter.com/Matt_GHolden",
         "className": "fa fa-twitter"
       },
       {
         "name": "linkedin",
-        "url": "",
+        "url": "https://www.linkedin.com/in/matthew-g-holden/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "",
+        "url": "https://github.com/mattgholden",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "skillmessage": "I am always interested in exploring new technologies.  These are some of the languages, tools and platforms that I experience with",
     "education": [
       {
         "school": "General Assembly",
-        "degree": "",
+        "degree": "Remote Software Engineering Immersive Flex Course",
         "graduated": "April 2022",
         "description": ""
       },
@@ -52,29 +51,29 @@
         "description": ""
       }
     ],
-    "work": [
+    "experience": [
       {
-        "company": "",
+        "company": "General Assembly",
         "title": "Full Stack Software Engineer",
-        "years": "",
+        "years": "2021 - 2022",
         "description": ""
       },
       {
-        "company": "",
-        "title": "",
-        "years": "",
+        "company": "Washington Workplace",
+        "title": "Project Manager",
+        "years": "2016 - Present",
         "description": ""
       },
       {
-        "company": "",
-        "title": "",
-        "years": "",
-        "description": " "
+        "company": "Enterprise Rent-A-Car",
+        "title": "Management Intern",
+        "years": "2015 - 2016",
+        "description": ""
       },
       {
-        "company": "",
-        "title": "",
-        "years": "",
+        "company": "Vector Marketing",
+        "title": "Assistant Manager",
+        "years": "2013 - 2014",
         "description": ""
       }
     ],
@@ -100,7 +99,7 @@
         "image": "node.jpg"
       },
       {
-        "name": "Bootstrap 4",
+        "name": "Bootstrap",
         "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
         "image": "bootstrap.jpg"
       },
