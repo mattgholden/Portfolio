@@ -140,34 +140,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "",
+        "title": "Bash! The Flash Cards",
         "category": "",
-        "image": "canadian-wanderlust.jpg",
-        "url": ""
+        "image": "bash-the-flash.jpg",
+        "url": "https://mattgholden.github.io/Matt-Holden-Bash-The-Flash-Cards/"
       },
       {
-        "title": "",
+        "title": "The Record Crate",
         "category": "",
-        "image": "fury-fighting-gear.jpg",
-        "url": ""
+        "image": "therecord-crate.jpg",
+        "url": "https://the-record-crate.herokuapp.com/records"
       },
       {
-        "title": "",
+        "title": "Allergy Busters",
         "category": "",
-        "image": "original-thai-food.jpg",
-        "url": ""
+        "image": "allergy-busters.jpg",
+        "url": "https://allergybusters.herokuapp.com/"
       },
       {
-        "title": "",
+        "title": "Food Traveler",
         "category": "",
-        "image": "",
-        "url": ""
-      },
-      {
-        "title": "",
-        "category": "(MVP Only) A React and Meteor based chat University project.",
-        "image": "",
-        "url": ""
+        "image": "food-traveler.jpg",
+        "url": "https://foodtraveler.herokuapp.com/"
       }
     ]
   },
