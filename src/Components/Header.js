@@ -8,7 +8,7 @@ class Header extends Component {
       var description = this.props.data.description;
       var jobDescription = this.props.data.jobDescription;
       var employer = this.props.data.employer;
-      var city = this.props.data.address.city;
+      var state = this.props.data.address.state;
       var networks = this.props.data.social.map(function (network) {
         return (
           <li key={network.name}>
@@ -52,8 +52,8 @@ class Header extends Component {
               </a>
             </li>
             <li>
-              <a className="smoothscroll" href="#testimonials">
-                Quote
+              <a className="smoothscroll" href="#quote">
+                Inspirational Quote
               </a>
             </li>
             <li>
@@ -68,7 +68,7 @@ class Header extends Component {
           <div className="banner-text">
             <h1 className="responsive-headline">Hello! <br/> I am {name}.</h1>
             <h3>
-              I am a <span>{city}</span> based <span>{occupation}</span>,
+              I am a <span>{state}</span> based <span>{occupation}</span>,
               {description}
               <span>{employer}</span> where I<span> {jobDescription}</span>.
             </h3>

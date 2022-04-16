@@ -1,15 +1,14 @@
 {
   "main": {
     "name": "Matt Holden",
-    "occupation": " Full Stack Software Engineer",
+    "occupation": " Full-Stack Software Engineer",
     "description": " recently completed General Assembly's ",
     "employer": "Software Engineering Immersive Flex program",
-    "jobDescription": "learned...",
+    "jobDescription": "learned some of today's most in demand software engineering skills.",
     "image": "profile_pic.jpg",
     "bio": "I love travel,  .",
     "contactmessage": "Think I'd be a good fit for your team? Have a project for me? I would love to hear from you!  Reach out by email or by using the form below if you would like to get in touch with me.",
     "email": "mgholden27@gmail.com",
-    "phone": "",
     "address": {
       "city": "Towson",
       "state": "Maryland",
@@ -36,18 +35,22 @@
     ]
   },
   "resume": {
-    "skillmessage": "Much like traveling, I am always interested in exploring new technologies.  These are some of the languages, tools and platforms that I have experience with:",
+    "skillmessage": "Much like traveling, I am always interested in expanding my skill set and exploring new technologies.  These are some of the languages, tools and platforms that I have experience with:",
     "education": [
       {
+        "image": "ga-logo.jpg",
         "school": "General Assembly",
         "degree": "Remote Software Engineering Immersive Flex Course",
         "graduated": "April 2022",
+        "url": "https://generalassemb.ly/education/software-engineering-immersive-remote-flex",
         "description": ""
       },
       {
+        "image": "TU-logo.jpg",
         "school": "Towson University",
         "degree": "Bachelors of Science in Business Administration",
         "graduated": "May 2016",
+        "url": "https://www.towson.edu/",
         "description": ""
       }
     ],
@@ -144,25 +147,25 @@
     "projects": [
       {
         "title": "Bash! The Flash Cards",
-        "category": "",
+        "description": "",
         "image": "bash-the-flash.jpg",
         "url": "https://mattgholden.github.io/Matt-Holden-Bash-The-Flash-Cards/"
       },
       {
         "title": "The Record Crate",
-        "category": "",
+        "description": "",
         "image": "therecord-crate.jpg",
         "url": "https://the-record-crate.herokuapp.com/records"
       },
       {
         "title": "Allergy Busters",
-        "category": "",
+        "description": "",
         "image": "allergy-busters.jpg",
         "url": "https://allergybusters.herokuapp.com/"
       },
       {
         "title": "Food Traveler",
-        "category": "",
+        "description": "text",
         "image": "food-traveler.jpg",
         "url": "https://foodtraveler.herokuapp.com/"
       }
