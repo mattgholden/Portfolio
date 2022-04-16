@@ -36,7 +36,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Much like traveling, I am always interested in exploring new technologies.  These are some of the languages, tools and platforms that I experience with",
+    "skillmessage": "Much like traveling, I am always interested in exploring new technologies.  These are some of the languages, tools and platforms that I have experience with:",
     "education": [
       {
         "school": "General Assembly",
@@ -84,6 +84,16 @@
         "image": "git.jpg"
       },
       {
+        "name": "HTML",
+        "description": "",
+        "image": "html.jpg"
+      },
+      {
+        "name": "CSS",
+        "description": "",
+        "image": "css3.jpg"
+      },
+      {
         "name": "JavaScript",
         "description": "JavaScript was my first programming language that I started using in college years ago. It is by far the language I am most familiar with in terms of data-structure and algorithm programming.",
         "image": "java.jpg"
@@ -94,24 +104,29 @@
         "image": "react.jpg"
       },
       {
-        "name": "NodeJS",
-        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image": "nodejs.jpg"
-      },
-      {
         "name": "Python",
         "description":"",
         "image": "python.jpg"
       },
       {
+        "name": "GitHub",
+        "description": "",
+        "image": "github.jpg"
+      },
+      {
+        "name": "NodeJS",
+        "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
+        "image": "nodejs.jpg"
+      },
+      {
+        "name": "Heroku",
+        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
+        "image": "heroku.jpg"
+      },
+      {
         "name": "Flask",
         "description": "",
         "image": "flask.jpg"
-      },
-      {
-        "name": "Bootstrap",
-        "description": "I use Bootstrap more often than not when designing the layout for my sites. It is the framework I am most familiar with and can therefore design more quickly than with others.",
-        "image": "bootstrap.jpg"
       },
       {
         "name": "MongoDB",
@@ -122,20 +137,8 @@
         "name": "PostgreSQL",
         "description": "",
         "image": "postgres.jpg"
-      },
-      {
-        "name": "Heroku",
-        "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
-        "image": "heroku.jpg"
-      },
-      {
-        "name": "GitHub",
-        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
-        "image": "github.jpg"
       }
-      
-
-    ]
+   ]
   },
   "portfolio": {
     "projects": [
@@ -165,11 +168,11 @@
       }
     ]
   },
-  "testimonials": {
-    "testimonials": [
+  "quote": {
+    "quote": [
       {
-        "text": "",
-        "user": ""
+        "text": "All great achievements require time.",
+        "user": "Maya Angelou"
       }
     ]
   }

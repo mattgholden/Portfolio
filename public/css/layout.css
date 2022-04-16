@@ -335,7 +335,7 @@ ul#nav li.current a {
   font: 15px/24px "opensans-semibold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 1px;
-  text-align: center;
+  /* text-align: right; */
   margin-bottom: 48px;
   color: #95a3a3;
 }
@@ -386,7 +386,7 @@ ul#nav li.current a {
   width: 30px;
   font-size: 18px;
   line-height: 30px;
-  text-align: center;
+  text-align: right;
 
   opacity: 0;
   -moz-opacity: 0;
@@ -541,11 +541,11 @@ call-to-action .button {
 }
 
 /* ------------------------------------------------------------------
-/* g. Testimonials
+/* g. Quote
 /* ------------------------------------------------------------------ */
 
-#testimonials {
-  background: #1f1f1f url(../images/testimonials-bg.jpg) no-repeat center center;
+#quote {
+  background: #1f1f1f url(../images/quote-bg.jpg) no-repeat center center;
   background-size: cover !important;
   -webkit-background-size: cover !important;
   background-attachment: fixed;
@@ -555,23 +555,24 @@ call-to-action .button {
   width: 100%;
   overflow: hidden;
 }
-#testimonials .text-container {
+#quote .text-container {
   padding-top: 96px;
   padding-bottom: 66px;
+  background-color: rgba(0, 0, 0, 0.4);
 }
-#testimonials h1 {
+#quote h1 {
   font: 18px/24px "opensans-bold", sans-serif;
   text-transform: uppercase;
   letter-spacing: 3px;
   color: #fff;
 }
-#testimonials h1 span {
+#quote h1 span {
   display: none;
 }
-#testimonials .header-col {
+#quote .header-col {
   padding-top: 9px;
 }
-#testimonials .header-col h1:before {
+#quote .header-col h1:before {
   font-family: "FontAwesome";
   content: "\f10d";
   padding-right: 10px;
@@ -583,34 +584,34 @@ call-to-action .button {
 }
 
 /*	Blockquotes */
-#testimonials blockquote {
+#quote blockquote {
   margin: 0 0px 30px 0px;
   padding-left: 0;
   position: relative;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 1);
 }
-#testimonials blockquote:before {
+#quote blockquote:before {
   content: none;
 }
-#testimonials blockquote p {
+#quote blockquote p {
   font-family: "librebaskerville-italic", serif;
   padding: 0;
   font-size: 24px;
   line-height: 48px;
   color: #fff;
 }
-#testimonials blockquote cite {
+#quote blockquote cite {
   display: block;
   font-size: 12px;
   font-style: normal;
   line-height: 18px;
   color: #fff;
 }
-#testimonials blockquote cite:before {
+#quote blockquote cite:before {
   content: "\2014 \0020";
 }
-#testimonials blockquote cite a,
-#testimonials blockquote cite a:visited {
+#quote blockquote cite a,
+#quote blockquote cite a:visited {
   color: #8b9798;
   border: none;
 }
