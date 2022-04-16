@@ -149,25 +149,29 @@
         "title": "Bash! The Flash Cards",
         "description": "",
         "image": "bash-the-flash.jpg",
-        "url": "https://mattgholden.github.io/Matt-Holden-Bash-The-Flash-Cards/"
+        "url": "https://mattgholden.github.io/Matt-Holden-Bash-The-Flash-Cards/",
+        "github": "https://github.com/mattgholden/Matt-Holden-Bash-The-Flash-Cards/tree/master"
       },
       {
         "title": "The Record Crate",
         "description": "",
         "image": "therecord-crate.jpg",
-        "url": "https://the-record-crate.herokuapp.com/records"
+        "url": "https://the-record-crate.herokuapp.com/records",
+        "github": "https://github.com/mattgholden/The-Record-Crate"
       },
       {
         "title": "Allergy Busters",
         "description": "",
         "image": "allergy-busters.jpg",
-        "url": "https://allergybusters.herokuapp.com/"
+        "url": "https://allergybusters.herokuapp.com/",
+        "github": "https://github.com/orgs/Allergy-Busters/repositories"
       },
       {
         "title": "Food Traveler",
         "description": "text",
         "image": "food-traveler.jpg",
-        "url": "https://foodtraveler.herokuapp.com/"
+        "url": "https://foodtraveler.herokuapp.com/",
+        "github": "https://github.com/mattgholden/Food-Traveler-Frontend"
       }
     ]
   },

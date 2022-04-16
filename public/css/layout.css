@@ -339,6 +339,14 @@ ul#nav li.current a {
   margin-bottom: 48px;
   color: #95a3a3;
 }
+#portfolio .button {
+  margin-top: 6px;
+  background: #444;
+}
+#portfolio .button:hover {
+  background: #fff;
+  color: #2b2b2b;
+}
 
 /* Portfolio Content */
 #portfolio-wrapper .columns {
@@ -429,6 +437,11 @@ ul#nav li.current a {
   opacity: 1;
   -moz-opacity: 1;
   filter: alpha(opacity=100);
+}
+
+.portfolio .button {
+  margin-top: 6px;
+  background: #444;
 }
 
 /* popup modal */
