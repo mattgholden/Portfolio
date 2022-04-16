@@ -21,7 +21,7 @@ class Resume extends Component {
         return <div key={skills.name} className="columns feature-item">
                   <img className='skill' alt={skills.name} src={projectImage} />
                   <h5>{skills.name}</h5>
-                  <p>{skills.description}</p>
+                  {/* <p>{skills.description}</p> */}
                </div>
       })
     }

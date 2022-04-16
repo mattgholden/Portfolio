@@ -94,9 +94,14 @@
         "image": "react.jpg"
       },
       {
+        "name": "Python",
+        "description":"",
+        "image": "python.jpg"
+      },
+      {
         "name": "Node JS",
         "description": "Node JS is my server-side scripting language of choice. The bulk of my experience with it has been in conjunction with MeteorJS-based projects",
-        "image": "node.jpg"
+        "image": "nodejs.jpg"
       },
       {
         "name": "Bootstrap",
@@ -112,7 +117,13 @@
         "name": "Heroku",
         "description": "I use Heroku as my hosting platform for most of my projects because so far they are all unpaid and their free tier is convenient. I also appreciate its integration with Github for such simple deployment.",
         "image": "heroku.jpg"
+      },
+      {
+        "name": "GitHub",
+        "description": "I use Git for all of my projects so far. I have used Git for version control in small teams and have toyed around with contributing to Open Source Projects.",
+        "image": "github.jpg"
       }
+
     ]
   },
   "portfolio": {
