@@ -155,7 +155,8 @@
       },
       {
         "title": "The Record Crate",
-        "description": "",
+        "description": "For this project, I wanted create an full-stack CRUD app that allows users to create an account and digitally keep inventory of their vinyl record collections. A library of records if you will.",
+        "technologies": "HTML, CSS, JavaScript, Bcrypt, and Heroku",
         "image": "therecord-crate.jpg",
         "url": "https://the-record-crate.herokuapp.com/records",
         "github": "https://github.com/mattgholden/The-Record-Crate"
@@ -163,15 +164,16 @@
       {
         "title": "Allergy Busters",
         "description": "Allergy Busters is an app created in collaboration with a team. This project is an app that allows users to track their daily habits, environmental factors, and potential irritants in order to help them better understand the causes of a particular allergy/intolerance they may have.",
-        "technologies": "JavaScript, React, CSS & Bootstrap, Express, MongoDB, Node",
+        "technologies": "JavaScript, React, CSS & Bootstrap, Express, MongoDB, Node, Bcrypt, and Heroku",
         "image": "allergy-busters.jpg",
         "url": "https://allergybusters.herokuapp.com/",
         "github": "https://github.com/orgs/Allergy-Busters/repositories"
       },
       {
         "title": "Food Traveler",
-        "description": "text",
+        "description": "I created this application to allow users to plan where to eat before and/or while they travel. This idea came to mind while I pondered how to combine two of my favorite things...food and travel. Users can create an account, log in, and create a ToEat List, for their upcoming travels.",
         "image": "food-traveler.jpg",
+        "technologies": "JavaScript, React, Bulma & Bootstrap, Express, MongoDB, Node, Bcrypt, and Heroku",
         "url": "https://foodtraveler.herokuapp.com/",
         "github": "https://github.com/mattgholden/Food-Traveler-Frontend"
       }
