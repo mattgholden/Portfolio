@@ -162,6 +162,7 @@ header .scrolldown a:hover {
 /* hide toggle button */
 #nav-wrap > a.mobile-btn {
   display: none;
+  background-color: #3ebff6;
 }
 
 ul#nav {
@@ -948,7 +949,7 @@ footer .social-links li {
   margin: 0;
   padding: 0;
   margin-left: 42px;
-  color: #f06000;
+  color: #000000;
 }
 
 footer .social-links li:first-child {
