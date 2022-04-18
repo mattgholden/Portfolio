@@ -18,7 +18,15 @@ class Resume extends Component {
       })
       var experience = this.props.data.experience.map(function(experience){
         return <div key={experience.company}><h3>{experience.company}</h3>
-            <p className="info">{experience.title}<span>&bull;</span> <em className="date">{experience.years}</em></p>
+            <p className="info">
+                {experience.title}
+              <span>&bull;</span>
+                {experience.location}
+              <span>&bull;</span> 
+              <em className="date">
+                {experience.years}
+              </em>
+            </p>
             <p className="newline">{experience.description}</p>
         </div>
       })

@@ -2,11 +2,11 @@
   "main": {
     "name": "Matt Holden",
     "occupation": " Full-Stack Software Engineer",
-    "description": " recently completed General Assembly's ",
+    "description": "  I recently completed General Assembly's ",
     "employer": "Software Engineering Immersive Flex program",
-    "jobDescription": "learned some of today's most in demand software engineering skills.",
+    "jobDescription": "learned many of today's most in demand software engineering skills",
     "image": "profile_pic.jpg",
-    "bio": "I love travel,  .",
+    "bio": "Project Manager turned Software Engineer.  I thrive in communicating expectations to clients, quickly identifying problems, and providing efficient, creative solutions. I adapt to changing project and client business needs as the world evolves.  Some interests of mine include traveling, trying new foods, and experiencing music.  These interests aid my ability to keep an open mind to diverse perspectives and broaden my areas of expertise through hands-on learning.",
     "contactmessage": "Think I'd be a good fit for your team? Have a project for me? I would love to hear from you!  Reach out by email or by using the form below if you would like to get in touch with me.",
     "email": "mgholden27@gmail.com",
     "address": {
@@ -59,24 +59,28 @@
         "company": "General Assembly",
         "title": "Full Stack Software Engineer",
         "years": "2021 - 2022",
+        "location": "Remote",
         "description": ""
       },
       {
         "company": "Washington Workplace",
         "title": "Project Manager",
         "years": "2016 - Present",
+        "location": "Remote",
         "description": ""
       },
       {
         "company": "Enterprise Rent-A-Car",
         "title": "Management Intern",
         "years": "2015 - 2016",
+        "location": "Baltimore, MD",
         "description": ""
       },
       {
         "company": "Vector Marketing",
         "title": "Assistant Manager",
         "years": "2013 - 2014",
+        "location": "Waldorf, MD",
         "description": ""
       }
     ],
@@ -155,8 +159,8 @@
       },
       {
         "title": "The Record Crate",
-        "description": "For this project, I wanted create an full-stack CRUD app that allows users to create an account and digitally keep inventory of their vinyl record collections. A library of records if you will.",
-        "technologies": "HTML, CSS, JavaScript, Bcrypt, and Heroku",
+        "description": "For this project, I wanted create a full-stack CRUD app that allows users to create an account and keep a digital library of their vinyl record collections.",
+        "technologies": "HTML, CSS, JavaScript, Express, MongoDB, Node, Bcrypt, and Heroku",
         "image": "therecord-crate.jpg",
         "url": "https://the-record-crate.herokuapp.com/records",
         "github": "https://github.com/mattgholden/The-Record-Crate"
@@ -171,10 +175,10 @@
       },
       {
         "title": "Food Traveler",
-        "description": "I created this application to allow users to plan where to eat before and/or while they travel. This idea came to mind while I pondered how to combine two of my favorite things...food and travel. Users can create an account, log in, and create a ToEat List, for their upcoming travels.",
+        "description": "I created this CRUD application to allow users to plan where to eat before and/or while they travel. This idea came to mind while I pondered how to combine two of my favorite things...food and travel. Users can create an account and create a ToEat List, for their upcoming travels.",
         "image": "food-traveler.jpg",
         "technologies": "JavaScript, React, Bulma & Bootstrap, Express, MongoDB, Node, Bcrypt, and Heroku",
-        "url": "https://foodtraveler.herokuapp.com/",
+        "url": "https://foodtraveler.herokuapp.com/mapview",
         "github": "https://github.com/mattgholden/Food-Traveler-Frontend"
       }
     ]
