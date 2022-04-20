@@ -51,11 +51,11 @@ class Header extends Component {
                 Projects
               </a>
             </li>
-            <li>
+            {/* <li>
               <a className="smoothscroll" href="#quote">
                 Inspirational Quote
               </a>
-            </li>
+            </li> */}
             <li>
               <a className="smoothscroll" href="#contact">
                 Contact
