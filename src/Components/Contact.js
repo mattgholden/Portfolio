@@ -13,6 +13,8 @@ class Contact extends Component {
       var message = this.props.data.contactmessage;
     }
 
+    
+
     return (
       <section id="contact">
 
@@ -32,12 +34,12 @@ class Contact extends Component {
 
             </div>
 
-         </div>
+         </div> */}
 
          <div className="row">
             <div className="eight columns">
 
-               <form action="" method="post" id="contactForm" name="contactForm">
+               {/* <form action="" method="post" id="contactForm" name="contactForm">
 					<fieldset>
 
                   <div>
@@ -73,22 +75,25 @@ class Contact extends Component {
 				   <div id="message-success">
                   <i className="fa fa-check"></i>Your message was sent, thank you!<br />
 				   </div>
-           </div>
+           </div> */}
 
 
             <aside className="four columns footer-widgets">
-               <div className="widget widget_contact"> */}
+               <div className="widget widget_contact"> 
 
 					   <h4>Location & Contact</h4>
 					   <p className="address">
-						   {name}<br />
+                     {name}<br/>
 						   {city}, {state}<br />
 						   {/* <span>{phone}</span><br /> */}
                      <span><a href="mailto:mgholden27@gmail.com">{email}</a></span>
 					   </p>
 				   </div>
-            {/* </aside> */}
-      {/* </div> */}
+            </aside>
+            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="matthew-g-holden" data-version="v1"></div>
+            </div>
+         </div>
+      </div>
    </section>
     );
   }
